@@ -1,4 +1,4 @@
-# Object Detection with DeepStream 5.1 
+#  Object Detection with DeepStream 5.1 
 
 <p align="center">
   <img src="assets/output.png">
